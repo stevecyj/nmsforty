@@ -23,8 +23,8 @@ export default {
   menu: {
     locale: true
   },
-  title: 'Ant Design Pro',
+  title: 'neithnet',
   pwa: false,
-  iconfontUrl: '',
+  iconfontUrl: '../assets/icons/3408537.svg',
   production: process.env.NODE_ENV === 'production' && process.env.VUE_APP_PREVIEW !== 'true'
 }
